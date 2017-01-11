@@ -1,3 +1,10 @@
+# Chuan Lee
+# R Programming course by Johns Hopkins University
+# Coursera https://www.coursera.org/learn/r-programming/
+# January 2017 Session
+# Programming assignment 1: Air Pollution
+# Week 2 - Part 1
+
 # Write a function named 'pollutantmean' that calculates 
 # the mean of a pollutant (sulfate or nitrate) across a specified list of monitors. 
 # The function 'pollutantmean' takes three arguments: 'directory', 'pollutant', 
